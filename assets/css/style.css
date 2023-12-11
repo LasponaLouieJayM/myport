@@ -1,0 +1,115 @@
+.cursor-pointer {
+    cursor: pointer;
+}
+.main{
+    display: flex;
+    min-height: 100vh;
+    background-image: url('DEVBUGS\ REGISTRATION\ FORM\ \(OCTAWIZ_DEVBUGS\ BACKGROUND\)\ JPEG.jpg');
+    background-size: cover;
+    position: relative;
+  }
+  
+  #row1, #row2, #row3{
+    width: 185.5px;
+    color: white;
+    border-radius: 8px;
+    background: #1f1f1f;
+    height: 35px;
+    border: 2px solid #11cd03;
+    font-size: 15px;
+    padding-left: 10px;
+  }
+  
+  #row4, #row5 {
+    width: 464px;
+    color: white;
+    border-radius: 8px;
+    background: #1f1f1f;
+    height: 35px;
+    border: 2px solid #11cd03;
+    font-size: 15px;
+    padding-left: 10px;
+  }
+  
+  .first_name{
+    margin-left: 515px;
+    margin-right: 74px;
+    margin-top: 218px;
+  }
+  
+  .birth_date{
+    margin-left: 515px;
+    margin-right: 74px;
+    margin-top: 16.5px;
+  }
+  
+  .contact_no{
+    margin-left: 515px;
+    margin-right: 74px;
+    margin-top: 23px;
+  }
+  
+  .pass_word{
+    margin-left: 515px;
+    margin-top: 26px;
+  }
+  
+  .confirmed_password{
+    margin-left: 515px;
+    margin-top: 26px;
+  }
+  
+  .first_name::placeholder, .last_name::placeholder, .birth_date::placeholder, .sex_::placeholder,
+  .contact_no::placeholder, .e_mail::placeholder, .pass_word::placeholder, .confirmed_password::placeholder {
+    color: rgb(208, 206, 206);
+  }
+  
+  .first_name.placeholder{
+    color: rgb(255, 255, 255);
+  }
+  
+  #row1:hover, #row2:hover, #row3:hover, #row4:hover, #row5:hover, #row6:hover, .box3:hover, .box2:hover, .box1:hover{
+    border: 2px solid #ffffff;
+    /*#717171aa;*/
+   }
+  
+  #privacy-checkbox{
+    margin-left: 521px;
+    margin-top: 3px;
+    color: white;
+    width: 10px;
+    height: 10px;
+  }
+  
+  .input label a{
+    margin-top: 5px;
+    margin-left: -4px;
+    font-size: 6px;
+    color: white;
+    position: absolute
+  }
+  
+  .submit{
+    margin-left: 620px;
+    margin-top: -6px;
+    width: 262px;
+    height: 50px;
+    border-radius: 12px;
+    background-color: #10a705;
+    /*#0ebd02*/
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+  }
+  .submit:hover {
+    background-color: #0e8d05;
+    /*opacity: 60%;*/
+  }
+  
+  .input a{
+    position: absolute;
+    margin-left: 680px;
+    margin-top: 5px;
+    color: white;
+    font-size: 14px;
+  }

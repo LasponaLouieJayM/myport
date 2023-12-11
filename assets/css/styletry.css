@@ -1,0 +1,176 @@
+body{
+    background-image: url('../img/Desktop.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.home{
+    color: white;
+    margin: 3px;
+    background-color: #251AA4;
+    width: 60px;
+    text-align: center;
+}
+.about{
+    color: white;
+    margin: 3px;
+    background-color: #251AA4;
+    width: 130px;
+    text-align: center;
+}
+.project{
+    color: white;
+    margin: 3px;
+    background-color: #251AA4;
+    width: 70px;
+    text-align: center;
+}
+.contact{
+    color: white;
+    margin: 3px;
+    background-color: #251AA4;
+    width: 110px;
+    text-align: center;
+}
+.navs a {
+    text-decoration: none;
+    margin-left: 700px;
+    color: #FFF;
+font-family: Inria Serif;
+font-size: 16.5 px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+.me{
+    margin-top:15px;
+    width: 600px;
+}
+.name{
+   
+    margin-left: 90px;
+    margin-top: 100px;
+    width: 530px;
+    color: rgb(255, 255, 255)a1a;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 50px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.prop{
+   
+    margin-left: 90px;
+    margin-top: -20px;
+    color: rgb(255, 255, 255);
+    width: 530px;
+    font-size: 32px;
+    font-weight: bolder;
+    font-family: Inter;
+}
+
+.home{
+    color: white;
+    margin: 3px;
+    background-color: #251AA4;
+    width: 60px;
+    text-align: center;
+}
+.navs{
+    margin-left: 700px;
+    color: #FFF;
+font-family: Inria Serif;
+font-size: 16.5 px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+.me img{
+    margin-top: 10px;
+    width: 550px;
+}
+.name{
+    margin-left: 90px;
+    margin-top: 100px;
+    width: 530px;
+    color: #FFF;
+font-family: Inter;
+font-size: 50px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.prop{
+    margin-left: 90px;
+    margin-top: -20px;
+    color: whitesmoke;
+    width: 530px;
+    font-size: 32px;
+    font-weight: bolder;
+    font-family: Inter;
+}
+.cliff-h1{
+    color: #ffffff;
+
+    width: 510px;
+    margin-left: 100px;
+
+}
+.ljhead{
+
+        color: #ffffff;
+        background-color: transparent;
+        width: 200px;
+        margin-left: 540px;
+        text-decoration: underline;
+
+}
+.ljp{
+    color: #ffffff;
+    background-color:transparent;
+    width: 480px;
+    margin-left: 120px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.ljs{
+    color: #ffffff;
+    background-color:transparent;
+    width: 480px;
+    margin-left: 400px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.ljpic{
+   width: 180px;
+}
+.nbar{
+    height: 3vw;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.ljbg{
+    text-align: center;
+    height: 44.1vw;
+    background-image: url('https://scontent.xx.fbcdn.net/v/t1.15752-9/369950173_24248524894792943_1665956718240540752_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=510075&_nc_eui2=AeHNOQbcjM7olYh_FH5Zf6pNrmNqRrklBqCuY2pGuSUGoMeR3ZZ7-C9Zd7N2GqeLZI6dL8i-5TngMSRQu__Qi9fo&_nc_ohc=R09-V14EwL8AX8m6Rfn&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRrA0lBr_vm_WyYg_3wPwDh-9oatWtBaWRtVZtT0GM8IQ&oe=65955477');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.ljcol{
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+    height: 150px;
+}
+.ljimg{
+    width: 100px;
+}
+/* .ljrow{
+    background-color: black;
+    color: yellow;
+    width: 100px;
+    height: 200px;
+} */
